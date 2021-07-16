@@ -1,0 +1,19 @@
+DAO - Data Access Objetct
+
+Usando o GIT
+Botão direito em uma parte vazia da pasta: Git Bash Here
+Abre um console.
+
+git intit (enter) - para criar a pasta
+
+Acessa o gitHub (https://github.com/login)
+ - email (gitHub20*)
+
+  - Crie um novo repositório: New - dá um nome  e clica em create
+  -  Clica em HTTPS e copia o endereço
+
+Volta para o console e :
+git remote add origin <<endereço copiado do git>>
+
+depois:
+git pull origin master (server para baixar o que tiver no repositório informado	
